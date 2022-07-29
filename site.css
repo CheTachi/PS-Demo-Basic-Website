@@ -66,7 +66,7 @@
 	}
 	
 	article {
-		width: 75%;
+		width: 25%;
 	}
 	
 	.columns {
@@ -90,7 +90,7 @@
 	/* Pies */
 	
 	.pie {
-			width: 200px;
+			width: 20px;
 			padding: 10px;
 			background-color: #fff;
 			border: solid 1px #ccc;
